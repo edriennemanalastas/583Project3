@@ -1,0 +1,109 @@
+svg {
+  background-color: #ffffff;
+  /*background-color: #000000;*/
+  margin-left: left;
+  margin-right: auto;
+  display: block;
+}
+
+.sit_button {
+  border-radius: 15px;
+  padding:5px;
+  width:280px;
+  height:60px;
+  background-color: #595959;
+  position: absolute;
+  left: 1100px;
+  color: white;
+  font-family: montserrat;
+  font-size: 16px;
+}
+
+.button_year {
+  border-radius: 15px;
+  padding:5px;
+  width:130px;
+  height:40px;
+  background-color: #595959;
+  position: absolute;
+  top: 1130px;
+  color: white;
+  font-family: montserrat;
+  font-size: 16px;
+}
+
+
+.sit_button:hover {
+  background-color: #4CAF50; /* Green */
+  color: white;
+}
+
+.race h2 {
+    position: absolute;
+    left: 1200px;
+    top: 300px;
+    font-size: 30px;
+    font-family: montserrat;
+}
+
+.year h2 {
+    position: absolute;
+    left: 150px;
+    top: 1050px;
+    font-size: 30px;
+    font-family: montserrat;
+}
+
+#button_2011 {
+  left: 150px;
+
+}
+
+#button_2012 {
+  left: 300px;
+}
+
+#button_2013 {
+  left: 450px;
+}
+
+#button_2014 {
+  left: 600px;
+}
+
+#button_2015 {
+  left: 750px;
+}
+
+#button_nhw{
+  top: 400px;
+}
+
+#button_nhb{
+  top: 470px;
+}
+
+#button_h{
+  top:540px;
+}
+
+#button_a{
+  top:610px;
+}
+
+#button_hpi{
+  top:680px;
+}
+
+#button_aian{
+  top:750px;
+}
+
+#button_2omr{
+  top:820px;
+}
+
+#button_o{
+  top:890px;
+}
+
