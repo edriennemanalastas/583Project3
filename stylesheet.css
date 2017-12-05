@@ -9,14 +9,91 @@ svg {
 .sit_button {
   border-radius: 15px;
   padding:5px;
+  width:305px;
+  height:60px;
+  background-color: #595959;
+  position: absolute;
+  left: 1070px;
+  color: white;
+  font-family: montserrat;
+  font-size: 16px;
+}
+
+.sit_button:hover {
+  background-color: #4CAF50; /* Green */
+  color: white;
+}
+
+.button_age {
+  border-radius: 15px;
+  padding:5px;
+  width:150px;
+  height:60px;
+  background-color: #595959;
+  position: absolute;
+  left: 1400px;
+  color: white;
+  font-family: montserrat;
+  font-size: 16px;
+}
+
+.button_age:hover {
+  background-color: #4CAF50; /* Green */
+  color: white;
+}
+
+.button_income {
+  border-radius: 15px;
+  padding:5px;
   width:280px;
   height:60px;
   background-color: #595959;
   position: absolute;
-  left: 1100px;
+  left: 1570px;
   color: white;
   font-family: montserrat;
   font-size: 16px;
+}
+
+.button_income:hover {
+  background-color: #4CAF50; /* Green */
+  color: white;
+}
+
+.button_education {
+  border-radius: 15px;
+  padding:5px;
+  width:330px;
+  height:60px;
+  background-color: #595959;
+  position: absolute;
+  left: 1870px;
+  color: white;
+  font-family: montserrat;
+  font-size: 16px;
+}
+
+.button_education:hover {
+  background-color: #4CAF50; /* Green */
+  color: white;
+}
+
+.button_gender {
+  border-radius: 15px;
+  padding:5px;
+  width:150px;
+  height:60px;
+  background-color: #595959;
+  position: absolute;
+  left: 2220px;
+  color: white;
+  font-family: montserrat;
+  font-size: 16px;
+}
+
+.button_gender:hover {
+  background-color: #4CAF50; /* Green */
+  color: white;
 }
 
 .button_year {
@@ -32,10 +109,17 @@ svg {
   font-size: 16px;
 }
 
-
-.sit_button:hover {
+.button_year:hover {
   background-color: #4CAF50; /* Green */
   color: white;
+}
+
+.year h2 {
+    position: absolute;
+    left: 150px;
+    top: 1050px;
+    font-size: 30px;
+    font-family: montserrat;
 }
 
 .race h2 {
@@ -46,10 +130,34 @@ svg {
     font-family: montserrat;
 }
 
-.year h2 {
+.age h2 {
     position: absolute;
-    left: 150px;
-    top: 1050px;
+    left: 1450px;
+    top: 300px;
+    font-size: 30px;
+    font-family: montserrat;
+}
+
+.income h2 {
+    position: absolute;
+    left: 1660px;
+    top: 300px;
+    font-size: 30px;
+    font-family: montserrat;
+}
+
+.education h2 {
+    position: absolute;
+    left: 1960px;
+    top: 300px;
+    font-size: 30px;
+    font-family: montserrat;
+}
+
+.gender h2 {
+    position: absolute;
+    left: 2240px;
+    top: 300px;
     font-size: 30px;
     font-family: montserrat;
 }
@@ -107,3 +215,78 @@ svg {
   top:890px;
 }
 
+#button_a1824 {
+  top: 400px;
+}
+
+#button_a2534{
+  top: 470px;
+}
+
+#button_a3544{
+  top:540px;
+}
+
+#button_a4554{
+  top:610px;
+}
+
+#button_a5564{
+  top:680px;
+}
+
+#button_a65older{
+  top:750px;
+}
+
+#button_iless15000{
+  top:400px;
+}
+
+#button_i1524{
+  top: 470px;
+}
+
+#button_i2534{
+  top:540px;
+}
+
+#button_i3549{
+  top:610px;
+}
+
+#button_i5074{
+  top:680px;
+}
+
+#button_i75plus{
+  top:750px;
+}
+
+#button_inotreported{
+  top:820px;
+}
+
+#button_edu1{
+  top:400px;
+}
+
+#button_edu2{
+  top: 470px;
+}
+
+#button_edu3{
+  top:540px;
+}
+
+#button_edu4 {
+  top:610px;
+}
+  
+#button_male {
+  top:400px;
+}
+
+#button_female {
+  top:470px;
+}
